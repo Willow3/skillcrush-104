@@ -1,0 +1,66 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/***** Anna Morriss advice styles *****/
+
+.annamorriss-advice {
+  background-color: #f9d8e7;
+  font-family: 'PT Sans', sans-serif;
+  margin: 0 auto;
+}
+
+.annamorriss-advice header {
+  background-color: #e68096;
+  margin: 0 auto;
+  padding: 50px 100px 50px 100px;
+}
+
+.annamorriss-advice a{
+  color: #000000;
+}
+
+.annamorriss-advice h1 {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+}
+
+.annamorriss-advice section {
+  margin: 40 auto;
+  height: 500px;
+  width: 1500px;
+}
+
+.annamorriss-advice .advice-left {
+  float: left;
+  max-width: 500px;
+  height: 400px;
+  padding: 80px;
+}
+
+.annamorriss-advice .advice-right {
+  float: left;
+  max-width: 500px;
+  height:400px;
+  padding: 80px;
+}
+
+.annamorriss-advice h4 {
+  font-family: 'PT Serif', serif;
+  font-size: 35px;
+  font-weight: 700px;
+}
+
+.annamorriss-advice p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 400px;
+}
+
+.annamorriss-advice footer {
+  clear: both;
+  font-weight: 400;
+  text-align: center;
+}
